@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a11b88b-a06c-457d-a7a3-d30a97c9e700)# 1장 연습 문제
+#1장 연습 문제
 
 p. 35-37
 
