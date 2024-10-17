@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ad2c464-95ce-46eb-afde-f517a4edc430)# 4장 연습 문제
+# 4장 연습 문제
 
 **01 다음 설명에 해당하는 관계 연산은?**
 
