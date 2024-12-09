@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3af3cc84-86d3-46b3-8842-af6a5514d374)# 12장 연습문제
+# 12장 연습문제
 
 **01 빅데이터가 큰 이슈로 부각된 이유로 거리가 면 것은?**
 
